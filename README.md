@@ -1,4 +1,4 @@
-# Recommednation-system-comparison
+# Recommendation-system-comparison
 Assignment 3/3 for Practical data science with python
 
 The key objectives of this assignment is to learn how to compare and contrast several recommendation system algorithms. There are three major components of the assignment – a completed Jupyter notebook used to run your experiments, a written report, and a short video presentation where I describe what I did and my key findings.
